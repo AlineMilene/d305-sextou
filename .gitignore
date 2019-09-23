@@ -1,0 +1,13 @@
+.Python
+
+*.log
+local_settings.Python
+db.sqlite3
+
+.env
+.venv
+env/
+venv/
+ENV/
+
+.vscode
